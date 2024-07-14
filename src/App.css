@@ -1,0 +1,28 @@
+h1{
+  margin: 10px;
+  background-color:#95c5e6 ;
+  padding: 15px;
+}
+
+.data {
+  margin: 0px 0px 50px;
+  padding: 10px;
+}
+
+.para {
+  color: blue;
+}
+
+.inputbox {
+  margin-top: 10px;
+  margin-right: 10px;
+  border-radius: 5px;
+  padding: 5px;
+  width: 300px;
+}
+
+.deletebutton {
+  width: 40px;
+  padding: 5px;
+  border-radius: 5px;
+}
